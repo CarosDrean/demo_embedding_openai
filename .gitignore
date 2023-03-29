@@ -1,0 +1,5 @@
+venv
+.idea
+.env
+base_data.json
+suggests.txt
